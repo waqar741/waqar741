@@ -1,6 +1,6 @@
 <h1 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">I'm Waquar Shaikh</h3>
-<p align="center"><b>Software Developer | AI Engineer Intern | Cybersecurity Enthusiast</b></p>
+<p align="center"><b>Software Developer | AI Engineer Intern </b></p>
 
 <br>
 
@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on **[AI Adaptive Cyber-Honeypot](https://github.com/waqar741)** — An intelligent system for real-time threat detection.
 - 👯 I’m looking to collaborate on **Distributed LLM Architectures**.
 - 🤝 I’m looking for help with **Model Sharding & Inference Optimization**.
-- 🌱 I’m currently learning **Advanced Cybersecurity, Docker, and System Design**.
+- 🌱 I’m currently learning ** Docker, and System Design**.
 - ⚡ Fun fact: **I'm building an AI that catches hackers while I sleep.**
 
 ---
