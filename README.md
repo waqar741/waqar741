@@ -85,11 +85,15 @@
 
 ### 📊 **GitHub Stats**
 
+### 📊 **GitHub Stats**
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=waqar741&show_icons=true&theme=radical&hide_border=true" alt="waqar741" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqar741&layout=compact&theme=radical&hide_border=true" alt="waqar741" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=waqar741&theme=radical&hide_border=true" alt="waqar741" height="180px" />
+  <a href="https://github.com/waqar741">
+    <img src="https://streak-stats.demolab.com/?user=waqar741&theme=radical&hide_border=true" alt="Streak Stats" height="180px" />
+  </a>
 </p>
