@@ -91,7 +91,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/waqar741">
-    <img src="https://streak-stats.demolab.com/?user=waqar741&theme=radical&hide_border=true" alt="Streak Stats" height="180px" />
-  </a>
+  <img src="https://github-profile-trophies.vercel.app/?username=waqar741&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="waqar741" />
 </p>
