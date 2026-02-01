@@ -85,8 +85,6 @@
 
 ### 📊 **GitHub Stats**
 
-### 📊 **GitHub Stats**
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=waqar741&show_icons=true&theme=radical&hide_border=true" alt="waqar741" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqar741&layout=compact&theme=radical&hide_border=true" alt="waqar741" height="180px" />
