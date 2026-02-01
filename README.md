@@ -16,7 +16,7 @@
 
 ### 🚀 **Current Status**
 
-- 🔭 I’m currently working on **[AI Adaptive Cyber-Honeypot](https://github.com/waqar741)** — An intelligent trap for hackers.
+- 🔭 I’m currently working on **[AI Adaptive Cyber-Honeypot](https://github.com/waqar741/AI-Based-Honeypot)** — An intelligent trap for hackers.
 - 👯 I’m looking to collaborate on **Distributed LLM Architectures & Decentralized Systems**.
 - 🤝 I’m looking for help with **Model Sharding & Inference Optimization**.
 - 🌱 I’m currently learning **Advanced System Design, Docker, and Kubernetes**.
@@ -86,13 +86,10 @@
 ### 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waqar741&show_icons=true&theme=radical&hide_border=true" alt="waqar741" />
+  <img src="https://github-readme-stats.vercel.app/api?username=waqar741&show_icons=true&theme=radical&hide_border=true" alt="waqar741" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqar741&layout=compact&theme=radical&hide_border=true" alt="waqar741" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqar741&layout=compact&theme=radical&hide_border=true" alt="waqar741" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waqar741&theme=radical&hide_border=true" alt="waqar741" />
+  <img src="https://streak-stats.demolab.com/?user=waqar741&theme=radical&hide_border=true" alt="waqar741" height="180px" />
 </p>
