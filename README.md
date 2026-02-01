@@ -86,10 +86,7 @@
 ### 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waqar741&show_icons=true&theme=radical&hide_border=true" alt="waqar741" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqar741&layout=compact&theme=radical&hide_border=true" alt="waqar741" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=waqar741&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="waqar741" />
+  <img src="https://img.shields.io/github/followers/waqar741?logo=github&style=for-the-badge&color=20232a&labelColor=555" />
+  <img src="https://img.shields.io/github/stars/waqar741?logo=github&style=for-the-badge&color=20232a&labelColor=555" />
+  <img src="https://img.shields.io/github/forks/waqar741?logo=github&style=for-the-badge&color=20232a&labelColor=555" />
 </p>
