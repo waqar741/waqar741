@@ -87,6 +87,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/waqar741?logo=github&style=for-the-badge&color=20232a&labelColor=555" />
-  <img src="https://img.shields.io/github/stars/waqar741/waqar741?logo=github&style=for-the-badge&color=20232a&labelColor=555" />
-  <img src="https://img.shields.io/github/forks/waqar741/waqar741?logo=github&style=for-the-badge&color=20232a&labelColor=555" />
+  <img src="https://img.shields.io/github/stars/waqar741?logo=github&style=for-the-badge&color=20232a&labelColor=555" />
+  <img src="https://img.shields.io/github/forks/waqar741?logo=github&style=for-the-badge&color=20232a&labelColor=555" />
 </p>
